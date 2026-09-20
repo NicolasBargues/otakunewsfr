@@ -1,0 +1,7 @@
+06/07/26: Recréation du site Otaku News FR
+12/07/26: Documentation officiel de la recréation d'Otaku News FR
+16/07/26: Finalisation de la nouvelle base d'Otaku News FR
+11/08/26: Rédaction officiel documenté de la création des Metion Légal et de la Politique de Confidentialité
+14/08/26: Début de l'implémentation officiel des Mention Légal et de la Politique de Confidentialité au site Otaku News FR
+14/08/26 12:50: Création officiel du "DevLog"
+14/08/26 16:32: Création d'une table des matière dans les Mention Légal et de la Politique de Confidentialité
